@@ -1,0 +1,1 @@
+Experimento realizado em Iniciação Científica na UFOP sobre Federated Learning, a tarefa era realizar o treinamento de uma rede de forma federada, e utilizando metricas de Transfer Learning saber quanto cada cliente da federação contribui para o treinamento do modelo agregado. 
